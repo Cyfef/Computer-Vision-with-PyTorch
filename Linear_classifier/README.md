@@ -2,4 +2,5 @@
 
 ---
 
-perform linear classifier of svm and softmax with PyTorch
+
+perform linear classifier of svm and softmax on CIFAR-10 dataset with PyTorch
